@@ -24,10 +24,10 @@ footer.id = 'red-footer';
 
 ---
 ### Ugly Query
-Repeat multiple 
+We practiced how to alter the CSS by using JS only. The biggest challenge for me was trying to target specific elements.
 
 ---
-### 
+### Notes
 DRY - Don't Repeat Yourself
 
 WET - Write Everything Twice
@@ -58,8 +58,4 @@ addDinoBGToTag('h1');
 
 Function Hoisting - JS moves all the functions to the top and scans.
 
-### API
-Application Programming Interface - the code you write in JS is talking to another collection of code.
-
-### Notes
-Mutable and immutable data
+Application Programming Interface (API) - the code you write in JS is talking to another collection of code.
